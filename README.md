@@ -2,7 +2,7 @@
 
 → To run this project you need to install whisper and flask.
 
-→ whisper is library which can be install from `[https://github.com/openai/whisper.git](https://github.com/openai/whisper.git)` .
+→ whisper is library which can be install from [https://github.com/openai/whisper.git](https://github.com/openai/whisper.git) .
 
 ```python
 pip install git+https://github.com/openai/whisper.git
